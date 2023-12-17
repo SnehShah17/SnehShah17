@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQEqYF-Ja_Sw-A/profile-displaybackgroundimage-shrink_350_1400/0/1629177869898?e=1708560000&v=beta&t=24eyw5Xl-qptllPa3PlyaphHBKJcM7LWAD3zPLswSFg)]
+![MasterHead](https://media.licdn.com/dms/image/C5616AQEqYF-Ja_Sw-A/profile-displaybackgroundimage-shrink_350_1400/0/1629177869898?e=1708560000&v=beta&t=24eyw5Xl-qptllPa3PlyaphHBKJcM7LWAD3zPLswSFg)
 <h1 align="center">Hi 👋, I'm Sneh Shah</h1>
 <h3 align="center">Current MS in CS student at USC. I bring a year of data science internship experience from BookMyShow and a passion for software development, machine learning, and data science. Currently on the lookout for impactful summer 2024 internships to further enhance my skills and contribute to cutting-edge projects. Let's connect and innovate together! 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">

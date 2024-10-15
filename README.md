@@ -1,11 +1,14 @@
-![MasterHead](https://media.licdn.com/dms/image/C5616AQEqYF-Ja_Sw-A/profile-displaybackgroundimage-shrink_350_1400/0/1629177869898?e=1708560000&v=beta&t=24eyw5Xl-qptllPa3PlyaphHBKJcM7LWAD3zPLswSFg)
 <h1 align="center">Hi 👋, I'm Sneh Shah</h1>
-<h3 align="center">Current MS in CS student at USC. I bring a year of data science internship experience from BookMyShow and a passion for software development, machine learning, and data science. Currently on the lookout for impactful summer 2024 internships to further enhance my skills and contribute to cutting-edge projects. Let's connect and innovate together! 🚀</h3>
+<h3 align="center">Second-year MS in Computer Science student at USC with a GPA of 3.67. Bringing a year of data science experience from BookMyShow, and recent internships at Stylebot and Briza, where I worked on cutting-edge AI and ML projects involving LLMs, generative AI, and data science-driven policy tools. Skilled in software development, machine learning, and data engineering, with hands-on experience in frameworks like PyTorch, TensorFlow, and AWS ML Services.</h3>
+
+<h3 align="center">Currently seeking impactful Fall 2025 Co-ops to further enhance my skills and contribute to innovative projects. Let’s connect and build something incredible together! 🚀</h3>
+
+</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1Lp4sq6wJFzhDhys5540pYLSMAt2ad1rq">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehshah17&label=Profile%20views&color=0e75b6&style=flat" alt="snehshah17" /> </p>
 
-- 🔭 I’m currently working on **portfolio website integration**
+- 🔭 Portfolio Website - https://snehtech.netlify.app/
 
 - 🌱 I’m currently learning **AWS Certified Machine Learning - Specialty and Deep Learning**
 

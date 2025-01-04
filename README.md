@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneh Shah</h1>
-<h3 align="center">Second-year MS in Computer Science student at USC with a GPA of 3.67. Bringing a year of data science experience from BookMyShow, and recent internships at Stylebot and Briza, where I worked on cutting-edge AI and ML projects involving LLMs, generative AI, and data science-driven policy tools. Skilled in software development, machine learning, and data engineering, with hands-on experience in frameworks like PyTorch, TensorFlow, and AWS ML Services.</h3>
+<h3 align="center">Second-year MS in Computer Science student at USC with a GPA of 3.73. Bringing a year of data science experience from BookMyShow, and recent internships at Stylebot and Briza, where I worked on cutting-edge AI and ML projects involving LLMs, generative AI, and data science-driven policy tools. Skilled in software development, machine learning, and data engineering, with hands-on experience in frameworks like PyTorch, TensorFlow, and AWS ML Services.</h3>
 
-<h3 align="center">Currently seeking impactful Fall 2025 Co-ops to further enhance my skills and contribute to innovative projects. Let’s connect and build something incredible together! 🚀</h3>
+<h3 align="center">Currently seeking impactful 2025 Full-Time positions to further enhance my skills and contribute to innovative projects. Let’s connect and build something incredible together! 🚀</h3>
 
 </h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1Lp4sq6wJFzhDhys5540pYLSMAt2ad1rq">
